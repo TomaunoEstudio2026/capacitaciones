@@ -22,7 +22,7 @@ const Header: React.FC = () => {
             <a href="/index.html" className="text-xs font-bold hover:text-primary transition-colors uppercase tracking-[0.2em]">Home</a>
             <a href="/cursos.html" className="text-xs font-bold text-primary transition-colors uppercase tracking-[0.2em] border-b-2 border-primary pb-1">Cursos</a>
             <a href="/modelos.html" className="text-xs font-bold hover:text-primary transition-colors uppercase tracking-[0.2em]">Modelos</a>
-            <a href="/staff.html" className="text-xs font-bold hover:text-primary transition-colors uppercase tracking-[0.2em]">Staff</a>
+            <a href="https://formularioinscripcion-j8tb-git-main-javiers-projects-17535852.vercel.app/" className="text-xs font-bold hover:text-primary transition-colors uppercase tracking-[0.2em]">Preguntas Frecuentes</a>
           </nav>
 
           <div className="flex items-center gap-4">
