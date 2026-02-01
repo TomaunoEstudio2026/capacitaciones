@@ -158,7 +158,7 @@ const CoursesPage: React.FC = () => {
   };
 
   const handleInscribirme = () => {
-    window.location.href = 'altacursos';
+    window.location.href = 'altacursos/';
   };
 
   return (
