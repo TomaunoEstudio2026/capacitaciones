@@ -158,7 +158,7 @@ const CoursesPage: React.FC = () => {
   };
 
   const handleInscribirme = () => {
-    window.location.href = 'altacursos/index.html';
+    window.location.href = 'https://formularioinscripcion.vercel.app';
   };
 
   return (
